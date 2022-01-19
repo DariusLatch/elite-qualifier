@@ -31,4 +31,4 @@ jobs:
           python-version: 3.6
 
       - name: Run tests
-        run: python test.py
+        run: python main.py
